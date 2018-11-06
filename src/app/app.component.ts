@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'La agenda';
-  owner = 'Jorge';
+  owner = 'Jose';
 
   gretter(name) {
     this.owner = name;
