@@ -15,7 +15,7 @@ export class MyTableComponent implements OnInit {
   /** Columns displayed in the table. Columns IDs can be added, removed, or reordered. */
   displayedColumns = [
     'name',
-    'lastname',
+    'lastName',
     'nick',
     'actions'
   ];
